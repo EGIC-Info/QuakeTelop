@@ -1,4 +1,4 @@
-「Quake Telop v.0.1.0」
+# Quake Telop
 
 原則クレジットは不要です。
 
